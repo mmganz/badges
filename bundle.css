@@ -1,0 +1,11 @@
+.emp-details {
+  padding: 5vh; }
+
+.navigation {
+  background-color: #37474F; }
+
+.tabs-title {
+  display: inline-block; }
+
+.is-active {
+  background: #ECEFF1; }
